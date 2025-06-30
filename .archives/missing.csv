@@ -1,0 +1,60 @@
+id,address,lat,lon
+3,"Allerton/Pelham Gardens,Bronx, New York",40.8654218,-73.8545318
+15,"Bay Terrace/Fort Totten,Queens, New York",40.790552,-73.7814617
+21,"Bensonhurst East,Brooklyn, New York",40.6146916,-74.0129784
+22,"Bensonhurst West,Brooklyn, New York",40.6146916,-74.0129784
+23,"Bloomfield/Emerson Hill,Staten Island, New York",40.6151798,-74.1832203
+27,"Breezy Point/Fort Tilden/Riis Beach,Queens, New York",40.5560151,-73.9361492
+28,"Briarwood/Jamaica Hills,Queens, New York",40.710198,-73.8246704
+36,"Bushwick North,Brooklyn, New York",40.6946127,-73.9422684
+41,"Central Harlem,Manhattan, New York",40.8139194,-73.9672961
+42,"Central Harlem North,Manhattan, New York",40.8139194,-73.9672961
+44,"Charleston/Tottenville,Staten Island, New York",40.533968,-74.237995
+47,"Claremont/Bathgate,Bronx, New York",40.841903, -73.899836
+61,"Crown Heights North,Brooklyn, New York",40.6730271,-73.9521963
+62,"Crown Heights South,Brooklyn, New York",40.6722014,-73.9624154
+65,"Downtown Brooklyn/MetroTech,Brooklyn, New York",40.6930808,-73.988298
+66,"DUMBO/Vinegar Hill,Brooklyn, New York",40.7030709,-73.9950218
+71,"East Flatbush/Farragut,Brooklyn, New York",40.638511,-73.9285267
+72,"East Flatbush/Remsen Village,Brooklyn, New York",40.6528283,-73.9302718
+74,"East Harlem North,Manhattan, New York",40.8004662,-73.9628482
+75,"East Harlem South,Manhattan, New York",40.7074748,-74.0036272
+84,"Eltingville/Annadale/Prince's Bay,Staten Island, New York",40.5396063,-74.2211621
+87,"Financial District North,Manhattan, New York",40.7088309,-74.0182339
+94,"Fordham South,Bronx, New York",40.859282,-73.9087691
+96,"Forest Park/Highland Park,Queens, New York",40.7151104,-73.8852467
+103,"Governor's Island/Ellis Island/Liberty Island,Manhattan, New York",40.6926376,-74.0500376
+104,"Governor's Island/Ellis Island/Liberty Island,Manhattan, New York",40.6926376,-74.0500376
+105,"Governor's Island/Ellis Island/Liberty Island,Manhattan, New York",40.6926376,-74.0500376
+117,"Hammels/Arverne,Queens, New York",40.5886187,-73.817993
+118,"Heartland Village/Todt Hill,Staten Island, New York",40.5880018,-74.1670135
+144,"Little Italy/NoLiTa,Manhattan, New York",40.7345631,-74.0077532
+146,"Long Island City/Queens Plaza,Queens, New York",40.7509981,-73.9428446
+154,"Marine Park/Floyd Bennett Field,Brooklyn, New York",40.5910214,-73.893184
+159,"Melrose South,Bronx, New York",40.820605,-73.9226055
+173,"North Corona,Queens, New York",40.7543583,-73.8754855
+178,"Ocean Parkway South,Brooklyn, New York",40.6128815,-73.9709637
+179,"Old Astoria,Queens, New York",40.7659861,-73.9441326
+186,"Penn Station/Madison Sq West,Manhattan, New York",40.7504105,-73.9956835
+200,"Riverdale/North Riverdale/Fieldston,Bronx, New York",40.9081938,-73.9156523
+207,"Saint Michaels Cemetery/Woodside,Queens, New York",40.7646801,-73.9010791
+212,"Soundview/Bruckner,Bronx, New York",40.8239722,-73.8797124
+218,"Springfield Gardens North,Queens, New York",40.6640649,-73.7788611
+219,"Springfield Gardens South,Queens, New York",40.6640649,-73.7788611
+224,"Stuy Town/Peter Cooper Village,Manhattan, New York",40.7317201,-73.9831527
+227,"Sunset Park East,Brooklyn, New York",40.6515222,-74.0486176
+228,"Sunset Park West,Brooklyn, New York",40.6515222,-74.0486176
+229,"Sutton Place/Turtle Bay North,Manhattan, New York",40.7571726,-73.9669371
+232,"Two Bridges/Seward Park,Manhattan, New York",40.7149096,-73.9918219
+233,"UN/Turtle Bay South,Manhattan, New York",40.7510064,-73.9764011
+236,"Upper East Side North,Manhattan, New York",40.7731602,-73.9783336
+237,"Upper East Side South,Manhattan, New York",40.7731602,-73.9783336
+238,"Upper West Side North,Manhattan, New York",40.7731602,-73.9783336
+239,"Upper West Side South,Manhattan, New York",40.7731602,-73.9783336
+241,"Van Cortlandt Village,Bronx, New York",40.8836977,-73.8985089
+243,"Washington Heights North,Manhattan, New York",40.85248,-73.9368745
+244,"Washington Heights South,Manhattan, New York",40.8438903,-73.95711
+250,"Westchester Village/Unionport,Bronx, New York",40.8290805,-73.8707345
+254,"Williamsbridge/Olinville,Bronx, New York",40.8785402,-73.8766769
+255,"Williamsburg (North Side),Brooklyn, New York",40.7115858,-73.9739935
+256,"Williamsburg (South Side),Brooklyn, New York",40.7076151,-73.9663165
